@@ -49,7 +49,7 @@ As the data of 9th grade was updated to Nan, it was not included for calculation
 <img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/e4c96b740409981d8bad2ffa80d06cf5ee36f19d/Resources/school%20summary%20describe%20without%20nan.png" />
 
 - *9th Grade data updated to Nan*
-<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/e4c96b740409981d8bad2ffa80d06cf5ee36f19d/Resources/school%20summary%20describe%20with%20nan.png" />
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/e4c96b740409981d8bad2ffa80d06cf5ee36f19d/Resources/school%20summary%20describe%20with%20nan.png" /> 
 
 ### ***School summary comparison based on data table***
 
