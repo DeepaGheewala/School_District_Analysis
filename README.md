@@ -27,10 +27,10 @@ The Analysis Report will have
 ## The District Summary
 Below we can see District Summary data comparison with 9th grade and without 9th grade.
 
-*With 9th Grade data*
+- *With 9th Grade data*
 <img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/88678f4df58877752fee43029444b0dfae800248/Resources/district_summary_withoutNAN.png" />
 
-*9th Grade data updated to Nan*
+- *9th Grade data updated to Nan*
 <img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/88678f4df58877752fee43029444b0dfae800248/Resources/district_summary_withNAN.png" />
 
 The above comparison shows that 
@@ -45,48 +45,48 @@ As the data of 9th grade was updated to Nan, it was not included for calculation
 ## The School Summary
 ### ***School summary comparison based on describe()***
 
-*With 9th Grade data*
+- *With 9th Grade data*
 <img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/e4c96b740409981d8bad2ffa80d06cf5ee36f19d/Resources/school%20summary%20describe%20without%20nan.png" />
 
-*9th Grade data updated to Nan*
+- *9th Grade data updated to Nan*
 <img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/e4c96b740409981d8bad2ffa80d06cf5ee36f19d/Resources/school%20summary%20describe%20with%20nan.png" />
 
 ### ***School summary comparison based on data table***
 
-*With 9th Grade data* [All Data](https://github.com/DeepaGheewala/School_District_Analysis/blob/861454c90ce7be18e3c6d97767c30d84337a2c88/Resources/school%20summary%20with%20nan.png)
+- *With 9th Grade data* [All Data](https://github.com/DeepaGheewala/School_District_Analysis/blob/861454c90ce7be18e3c6d97767c30d84337a2c88/Resources/school%20summary%20with%20nan.png)
 <img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/27ac2baa347eb8d3497214182c2aa3e95fd7f764/Resources/school%20summary%20with%20nan%20THS.png" />
 
-*9th Grade data updated to Nan* [ALL Data](https://github.com/DeepaGheewala/School_District_Analysis/blob/861454c90ce7be18e3c6d97767c30d84337a2c88/Resources/school%20summary%20without%20nan.png)
+- *9th Grade data updated to Nan* [ALL Data](https://github.com/DeepaGheewala/School_District_Analysis/blob/861454c90ce7be18e3c6d97767c30d84337a2c88/Resources/school%20summary%20without%20nan.png)
 <img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/27ac2baa347eb8d3497214182c2aa3e95fd7f764/Resources/school%20summary%20without%20nan%20THS.png" />
 
 ## Thomas High School Performance Impact
 
 Thomas School Performance improves slightly when 9th grade data is considered.
-*With 9th Grade data*
+- *With 9th Grade data*
 <img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/27ac2baa347eb8d3497214182c2aa3e95fd7f764/Resources/school%20summary%20with%20nan%20THS.png" />
 
-*9th Grade data updated to Nan*
+- *9th Grade data updated to Nan*
 <img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/27ac2baa347eb8d3497214182c2aa3e95fd7f764/Resources/school%20summary%20without%20nan%20THS.png" />
 
 ## Top And Bottom 5 Performing Schools
 ### ***Top Ranking*** 
  Thomas High School ranks second among the list of all schools with or without 9th grader data. This shows that Thomas school has been performing well and 9th grader data might be honest to the standards of the school.
  
- *With 9th Grade data*  
+- *With 9th Grade data*  
  
 <img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/e4c96b740409981d8bad2ffa80d06cf5ee36f19d/Resources/Top%20performing%20schools%20with%20Nan.png" />
 
-*9th Grade data updated to Nan*  
+- *9th Grade data updated to Nan*  
 
 <img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/e4c96b740409981d8bad2ffa80d06cf5ee36f19d/Resources/Top%20performing%20schools%20without%20Nan.png" />
 
 ### ***Bottom Ranking***
 As Thomas High School is not included in the bottom school list there is no impact to the bottom performing schools.
 
-*With 9th Grade data*
+- *With 9th Grade data*
 <img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/8ab2550d5bff92aa099e9fe928c1014d4389450c/Resources/Bottom%20performing%20schools%20with%20Nan.png" height="250" width="900"/>
 
-*9th Grade data updated to Nan*
+- *9th Grade data updated to Nan*
 <img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/8ab2550d5bff92aa099e9fe928c1014d4389450c/Resources/Bottom%20performing%20schools%20without%20Nan.png" height="250" width="900"/>
 
 ## Average Math And Reading Score For Each Grade
@@ -102,25 +102,25 @@ Thomas School's 9th Grade Reading score data average is nearly similar with othe
 
 ## Scores by School Spending Per Student
 
-*With 9th Grade data*
+- *With 9th Grade data*
 <img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/20377d541a650b833b62fe8e0b83157269aa856c/Resources/spending%20bins%20without%20Nan.png" />
 
-*9th Grade data updated to Nan*
+- *9th Grade data updated to Nan*
 <img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/20377d541a650b833b62fe8e0b83157269aa856c/Resources/spending%20bins%20with%20Nan.png" />
 
 
 ## Scores by School Size
-*With 9th Grade data*
+- *With 9th Grade data*
 <img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/20377d541a650b833b62fe8e0b83157269aa856c/Resources/Performance%20based%20on%20School%20Size%20without%20NaN.png" />
 
-*9th Grade data updated to Nan*
+- *9th Grade data updated to Nan*
 <img src=" https://github.com/DeepaGheewala/School_District_Analysis/blob/20377d541a650b833b62fe8e0b83157269aa856c/Resources/Performance%20based%20on%20School%20Size%20with%20NaN.png" />
 
 ## Scores by School Type
-*With 9th Grade data*
+- *With 9th Grade data*
 <img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/20377d541a650b833b62fe8e0b83157269aa856c/Resources/Performance%20based%20on%20School%20Type%20without%20NaN.png" />
 
-*9th Grade data updated to Nan*
+- *9th Grade data updated to Nan*
 <img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/20377d541a650b833b62fe8e0b83157269aa856c/Resources/Performance%20based%20on%20School%20Type%20with%20NaN.png" />
 
 # Summary of the School District Analysis
