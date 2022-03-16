@@ -72,20 +72,22 @@ Thomas School Performance improves slightly when 9th grade data is considered.
 ### ***Top Ranking*** 
  Thomas High School ranks second among the list of all schools with or without 9th grader data. This shows that Thomas school has been performing well and 9th grader data might be honest to the standards of the school.
  
- *With 9th Grade data*
+ *With 9th Grade data*  
+ 
 <img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/e4c96b740409981d8bad2ffa80d06cf5ee36f19d/Resources/Top%20performing%20schools%20with%20Nan.png" />
 
-*9th Grade data updated to Nan*
+*9th Grade data updated to Nan*  
+
 <img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/e4c96b740409981d8bad2ffa80d06cf5ee36f19d/Resources/Top%20performing%20schools%20without%20Nan.png" />
 
 ### ***Bottom Ranking***
 As Thomas High School is not included in the bottom school list there is no impact to the bottom performing schools.
 
 *With 9th Grade data*
-<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/8ab2550d5bff92aa099e9fe928c1014d4389450c/Resources/Bottom%20performing%20schools%20with%20Nan.png" />
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/8ab2550d5bff92aa099e9fe928c1014d4389450c/Resources/Bottom%20performing%20schools%20with%20Nan.png" height="250" />
 
 *9th Grade data updated to Nan*
-<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/8ab2550d5bff92aa099e9fe928c1014d4389450c/Resources/Bottom%20performing%20schools%20without%20Nan.png" />
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/8ab2550d5bff92aa099e9fe928c1014d4389450c/Resources/Bottom%20performing%20schools%20without%20Nan.png" height="250"/>
 
 ## Average Math And Reading Score For Each Grade
 ### ***Math Score Grading***
