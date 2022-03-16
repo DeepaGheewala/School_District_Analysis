@@ -84,10 +84,10 @@ Thomas School Performance improves slightly when 9th grade data is considered.
 As Thomas High School is not included in the bottom school list there is no impact to the bottom performing schools.
 
 *With 9th Grade data*
-<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/8ab2550d5bff92aa099e9fe928c1014d4389450c/Resources/Bottom%20performing%20schools%20with%20Nan.png" height="250" />
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/8ab2550d5bff92aa099e9fe928c1014d4389450c/Resources/Bottom%20performing%20schools%20with%20Nan.png" height="250" width="900"/>
 
 *9th Grade data updated to Nan*
-<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/8ab2550d5bff92aa099e9fe928c1014d4389450c/Resources/Bottom%20performing%20schools%20without%20Nan.png" height="250"/>
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/8ab2550d5bff92aa099e9fe928c1014d4389450c/Resources/Bottom%20performing%20schools%20without%20Nan.png" height="250" width="900"/>
 
 ## Average Math And Reading Score For Each Grade
 ### ***Math Score Grading***
@@ -102,8 +102,29 @@ Thomas School's 9th Grade Reading score data average is nearly similar with othe
 
 ## Scores by School Spending Per Student
 
+*With 9th Grade data*
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/20377d541a650b833b62fe8e0b83157269aa856c/Resources/spending%20bins%20without%20Nan.png" />
+
+*9th Grade data updated to Nan*
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/20377d541a650b833b62fe8e0b83157269aa856c/Resources/spending%20bins%20with%20Nan.png" />
+
+
 ## Scores by School Size
+*With 9th Grade data*
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/20377d541a650b833b62fe8e0b83157269aa856c/Resources/Performance%20based%20on%20School%20Size%20without%20NaN.png" />
+
+*9th Grade data updated to Nan*
+<img src=" https://github.com/DeepaGheewala/School_District_Analysis/blob/20377d541a650b833b62fe8e0b83157269aa856c/Resources/Performance%20based%20on%20School%20Size%20with%20NaN.png" />
 
 ## Scores by School Type
+*With 9th Grade data*
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/20377d541a650b833b62fe8e0b83157269aa856c/Resources/Performance%20based%20on%20School%20Type%20without%20NaN.png" />
 
-#Summary
+*9th Grade data updated to Nan*
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/20377d541a650b833b62fe8e0b83157269aa856c/Resources/Performance%20based%20on%20School%20Type%20with%20NaN.png" />
+
+# Summary of the School District Analysis
+From the above analysis we can conclude the following:
+- Thomas High School ranked second irrespective of including 9th grade data or not.
+- 9th grade maths and reading score average is nearly similar to the other grade averages.
+- Impact on 
