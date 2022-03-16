@@ -26,7 +26,14 @@ The Analysis Report will have
 
 ## The District Summary
 Below we can see District Summary data comparison with 9th grade and without 9th grade.
-The below comparison shows that 
+
+With 9th Grade data
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/88678f4df58877752fee43029444b0dfae800248/Resources/district_summary_withoutNAN.png" />
+
+9th Grade data updated to Nan
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/88678f4df58877752fee43029444b0dfae800248/Resources/district_summary_withNAN.png" />
+
+The above comparison shows that 
 * Average Math Score, % Passing Math, % Passing Reading and %Overall Passing has little higher values.
 * Average Reading Score is same in both the cases.
 * Overall the impact to district summary is minimal
@@ -37,6 +44,12 @@ As the data of 9th grade was updated to Nan, it was not included for calculation
 
 ## The School Summary
 ### School summary comparison based on describe()
+With 9th Grade data
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/88678f4df58877752fee43029444b0dfae800248/Resources/district_summary_withoutNAN.png" />
+
+9th Grade data updated to Nan
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/88678f4df58877752fee43029444b0dfae800248/Resources/district_summary_withNAN.png" />
+
 ### School summary comparison based on data table
 
 
