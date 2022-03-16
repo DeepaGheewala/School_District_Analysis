@@ -128,3 +128,13 @@ From the above analysis we can conclude the following:
 - Thomas High School ranked second irrespective of including 9th grade data or not.
 - 9th grade maths and reading score average is nearly similar to the other grade averages.
 - Impact on 
+
+
+# Resources
+Applications
+1) Jupyter Notebook
+2) Python
+
+Dependent Libraries
+1) Pandas
+2) Numpy
