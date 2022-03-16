@@ -13,8 +13,8 @@ The Analysis Report will have
 * [The District Summary] (#The-District-Summary)
 * [The School Summary] (#The-School-Summary)
 * [Thomas High School Performance Impact](#Thomas-High-School-Performance-Impact)
-* [Top & Bottom 5 Performing Schools] (#Top-&-Bottom-5-Performing-Schools)
-* [Average Math & Reading Score For Each Grade](#Average-Math-&-Reading-Score-For-Each-Grade
+* [Top and Bottom 5 Performing Schools] (#Top-&-Bottom-5-Performing-Schools)
+* [Average Math and Reading Score For Each Grade](#Average-Math-and-Reading-Score-For-Each-Grade
 * [Scores by School Spending Per Student](#Scores-by-School-Spending-Per-Student)
 * [Scores by School Size](#Scores-by-School-Size)
 * [Scores by School Type](#Scores-by-School-Type)
@@ -24,9 +24,16 @@ The Analysis Report will have
   
 ## Thomas High School data updated with Nan
 
-## Disctrict Summary
+## The District Summary
 Below we can see District Summary data comparison with 9th grade and without 9th grade.
-The below comparison shows that 
+
+With 9th Grade data
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/88678f4df58877752fee43029444b0dfae800248/Resources/district_summary_withoutNAN.png" />
+
+9th Grade data updated to Nan
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/88678f4df58877752fee43029444b0dfae800248/Resources/district_summary_withNAN.png" />
+
+The above comparison shows that 
 * Average Math Score, % Passing Math, % Passing Reading and %Overall Passing has little higher values.
 * Average Reading Score is same in both the cases.
 * Overall the impact to district summary is minimal
@@ -35,19 +42,25 @@ The below comparison shows that
 As the data of 9th grade was updated to Nan, it was not included for calculations
 
 
-## School Summary
+## The School Summary
 ### School summary comparison based on describe()
+With 9th Grade data
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/88678f4df58877752fee43029444b0dfae800248/Resources/district_summary_withoutNAN.png" />
+
+9th Grade data updated to Nan
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/88678f4df58877752fee43029444b0dfae800248/Resources/district_summary_withNAN.png" />
+
 ### School summary comparison based on data table
 
 
 ## Thomas High School Performance Impact
  Thomas School Performance improves slightly when 9th grade data is considered.
 
-## Top & Bottom 5 Performing Schools
+## Top and Bottom 5 Performing Schools
    Thomas High School ranks second among the list of all schools with or without 9th grader data. This shows that Thomas school has been performing well and 9th grader data might be honest to the standards of the school.
  
 
-## Average Math & Reading Score For Each Grade
+## Average Math and Reading Score For Each Grade
 ### Math Score Grading
 	Thomas School's 9th Grade Math score data average is nearly similar with other grade average scores
 
