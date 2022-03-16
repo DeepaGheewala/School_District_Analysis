@@ -45,13 +45,17 @@ As the data of 9th grade was updated to Nan, it was not included for calculation
 ## The School Summary
 ### School summary comparison based on describe()
 With 9th Grade data
-<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/88678f4df58877752fee43029444b0dfae800248/Resources/district_summary_withoutNAN.png" />
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/861454c90ce7be18e3c6d97767c30d84337a2c88/Resources/school%20summary%20describe%20without%20nan.png" />
 
 9th Grade data updated to Nan
-<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/88678f4df58877752fee43029444b0dfae800248/Resources/district_summary_withNAN.png" />
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/861454c90ce7be18e3c6d97767c30d84337a2c88/Resources/school%20summary%20describe%20with%20nan.png" />
 
 ### School summary comparison based on data table
+With 9th Grade data [All Data](https://github.com/DeepaGheewala/School_District_Analysis/blob/861454c90ce7be18e3c6d97767c30d84337a2c88/Resources/school%20summary%20with%20nan.png)
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/27ac2baa347eb8d3497214182c2aa3e95fd7f764/Resources/school%20summary%20with%20nan%20THS.png" />
 
+9th Grade data updated to Nan [ALL Data](https://github.com/DeepaGheewala/School_District_Analysis/blob/861454c90ce7be18e3c6d97767c30d84337a2c88/Resources/school%20summary%20without%20nan.png)
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/27ac2baa347eb8d3497214182c2aa3e95fd7f764/Resources/school%20summary%20without%20nan%20THS.png" />
 
 ## Thomas High School Performance Impact
  Thomas School Performance improves slightly when 9th grade data is considered.
