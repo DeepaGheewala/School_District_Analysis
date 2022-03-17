@@ -24,7 +24,7 @@ After processing Student data and School data, the following data outcomes were 
   
 ## Thomas High School data updated with Nan
 In order to update the data of 9th grader Thomas High School the following code was written
-```python
+```{python}
 #  Step 3. Refactor the code in Step 2 to replace the math scores with NaN.
 
 student_data_df.loc[(student_data_df["grade"] == "9th") & 
@@ -51,8 +51,8 @@ The above comparison shows that
 
 ## The School Summary
 ### ***School summary comparison based on describe()***
- The below image comparison gives are very major difference in the **50th percentile** data.
- There are other few considerable differences noticed in mean, std, min, 25th percentile
+ The below image comparison gives are very major difference in the **50th percentile** data.  
+ There are other few considerable differences noticed in mean, std, min, 25th percentile.  
  Also remaining data has minute differences.
  
 - *With 9th Grade data*
@@ -96,21 +96,21 @@ Thomas School Performance improves slightly when 9th grade data is considered.
 As Thomas High School is not included in the bottom school list there is no impact to the bottom performing schools.
 
 - *With 9th Grade data*
-<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/8ab2550d5bff92aa099e9fe928c1014d4389450c/Resources/Bottom%20performing%20schools%20with%20Nan.png" height="250" width="900"/>
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/8ab2550d5bff92aa099e9fe928c1014d4389450c/Resources/Bottom%20performing%20schools%20with%20Nan.png" height="250" width="1000"/>
 
 - *9th Grade data updated to Nan*
-<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/8ab2550d5bff92aa099e9fe928c1014d4389450c/Resources/Bottom%20performing%20schools%20without%20Nan.png" height="250" width="900"/>
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/8ab2550d5bff92aa099e9fe928c1014d4389450c/Resources/Bottom%20performing%20schools%20without%20Nan.png" height="250" width="1000"/>
 
 ## Average Math And Reading Score For Each Grade
 ### ***Math Score Grading***
 Thomas School's 9th Grade Math score data average is nearly similar with other grade average scores
 
-<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/8ab2550d5bff92aa099e9fe928c1014d4389450c/Resources/grade%20wise%20math%20average%20THS.png" />
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/8ab2550d5bff92aa099e9fe928c1014d4389450c/Resources/grade%20wise%20math%20average%20THS.png"  height="250" width="1000" />
 
 ### ***Reading Score Grading***
 Thomas School's 9th Grade Reading score data average is nearly similar with other grade average scores
 
-<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/8ab2550d5bff92aa099e9fe928c1014d4389450c/Resources/grade%20wise%20reading%20average%20THS.png" />
+<img src="https://github.com/DeepaGheewala/School_District_Analysis/blob/8ab2550d5bff92aa099e9fe928c1014d4389450c/Resources/grade%20wise%20reading%20average%20THS.png"  height="250" width="1000"/>
 
 ## Scores by School Spending Per Student
 The spending bin $630-644 only has difference in data, this is because it has Thomas High School data falling in this bin.
