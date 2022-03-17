@@ -20,7 +20,8 @@ The Analysis Report need to have
 * [Scores by School Type](#Scores-by-School-Type)
 
 # Results 
-After processing Student data and School data, the following data outcomes were listed.
+After processing Student data and School data, the following data outcomes were listed.  
+The code written to achieve the below results can be found in this [Code File](#PyCitySchools_Challenge.ipynb)
   
 ## Thomas High School data updated with Nan
 In order to update the data of 9th grader Thomas High School the following code was written
