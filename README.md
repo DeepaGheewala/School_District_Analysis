@@ -21,7 +21,7 @@ The Analysis Report need to have
 
 # Results 
 After processing Student data and School data, the following data outcomes were listed.  
-The code written to achieve the below results can be found in this [Code File](#PyCitySchools_Challenge.ipynb)
+The code written to achieve the below results can be found in this [Code File](https://github.com/DeepaGheewala/School_District_Analysis/blob/879326962dde686a1a838a1e8581fb225ead3f90/PyCitySchools_Challenge.ipynb)
   
 ## Thomas High School data updated with Nan
 In order to update the data of 9th grader Thomas High School the following code was written
